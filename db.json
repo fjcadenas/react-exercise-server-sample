@@ -1,0 +1,37 @@
+{
+  "newsletters": [
+    {
+      "id": "1",
+      "name": "Aprende Inglés",
+      "authorName": "Pablo G",
+      "authorId": "1",
+      "date": "01/01/2021"
+    },
+    {
+      "id": "1",
+      "name": "Programando easy",
+      "authorName": "Fran C",
+      "authorId": "2",
+      "date": "02/01/2021"
+    },
+    {
+      "id": "1",
+      "name": "Aprende Inglés II",
+      "authorName": "Pablo G",
+      "authorId": "1",
+      "date": "01/01/2021"
+    },
+    {
+      "id": "1",
+      "name": "Cocinando Meta",
+      "authorName": "Walter W",
+      "authorId": "3",
+      "date": "01/01/2021"
+    }
+  ],
+  "authors": [
+    { "id": 1, "firstName": "Pablo", "lastName": "Granados", "Location": "Almeria" },
+    { "id": 2, "firstName": "Fran", "lastName": "Cadenas", "Location": "Motril" },
+    { "id": 3, "firstName": "Pablo", "lastName": "Granados", "Location": "Albuquerque" }
+  ]
+}
