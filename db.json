@@ -30,8 +30,23 @@
     }
   ],
   "authors": [
-    { "id": 1, "firstName": "Pablo", "lastName": "Granados", "Location": "Almeria" },
-    { "id": 2, "firstName": "Fran", "lastName": "Cadenas", "Location": "Motril" },
-    { "id": 3, "firstName": "Pablo", "lastName": "Granados", "Location": "Albuquerque" }
+    {
+      "id": 1,
+      "firstName": "Pablo",
+      "lastName": "Granados",
+      "Location": "Almeria"
+    },
+    {
+      "id": 2,
+      "firstName": "Fran",
+      "lastName": "Cadenas",
+      "Location": "Motril"
+    },
+    {
+      "id": 3,
+      "firstName": "Pablo",
+      "lastName": "Granados",
+      "Location": "Albuquerque"
+    }
   ]
 }
